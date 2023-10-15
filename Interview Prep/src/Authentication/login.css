@@ -1,0 +1,55 @@
+#logogla{
+    width: 200px;
+}
+
+#login-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+#maindivision{
+   
+    width: 35vw;
+    height: 60vh;
+    border: 2px solid #093157;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px -5px 5px #093157;
+}
+
+#head{
+    font-size: small;
+}
+
+#details{
+    margin-bottom: 25px;
+    display: flex;
+    
+    height: 100px;
+    width: 30vw;
+}
+
+#head{
+    color: #093157;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#signuplink{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+#loginbutton{
+    background-color: #093157;
+    color: white;
+    width: 120px;
+}
