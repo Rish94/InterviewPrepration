@@ -1,0 +1,11 @@
+
+
+#side{
+    position:absolute;
+    margin-left: 75vw;
+    width: 20vw;
+    border: 5px solid rgb(18, 87, 3);
+    height: 50px;
+    border-radius: 5px;
+}
+

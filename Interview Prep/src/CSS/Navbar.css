@@ -1,0 +1,100 @@
+#navbar{
+    padding: 5px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 2px solid red; */
+}
+
+#logo_image{
+    width: 200px;
+    height: 85px;
+}
+
+
+#interview{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: #093157;
+    text-shadow:1px 1px rgb(218, 218, 8);
+}
+
+#menu{
+    /* border: 2px solid red; */
+    box-shadow: 1px 1px 1px 1px rgb(238, 255, 0);
+    height: 40px;
+    background-color: #093157;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15px;
+    align-items: center;
+}
+
+.textsearch{
+    margin-right: 5px;
+}
+
+a{
+    margin-right: 30px;
+}
+#select{
+    margin-right:30px;
+    
+    text-align: center;
+}
+
+
+#menulist{
+    padding-left: 10px;
+    display: flex;
+    color: white;
+    list-style: none;
+    font-size:small;
+    font-weight: bold;
+}
+
+#grow{
+    width: 100%;
+    height: 320px;
+}
+
+#login{
+    display: flex;
+    justify-content: space-evenly;
+    width: 15%;
+    height: 10%;
+    margin-left: 10px;
+}
+
+#buttonlogin{
+    box-shadow: 1px -5px 5px  rgb(221, 221, 221),1px 5px 5px rgb(221, 221, 221);
+    border-radius: 8px;
+    font-size: medium;
+    width: 95%;
+    height: 10%;
+    margin: 5px;
+    background-color: #093157;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+#buttonlogin:active{
+    box-shadow: none;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: yellow;
+    text-shadow: 1px rgb(255, 0, 0);
+}
+

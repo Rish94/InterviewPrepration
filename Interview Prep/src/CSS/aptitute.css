@@ -1,0 +1,20 @@
+
+
+#Question-Answer{
+    background-color: rgba(251, 249, 249, 0.941);
+    border-radius: 5px;
+    margin: 5px;
+    width: 70vw;
+    padding: 10px;
+}
+
+#Question{
+    color: rgb(0, 62, 16);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px yellow;
+}
+
+#Answer{
+    font-family: 'Times New Roman', Times, serif;
+}

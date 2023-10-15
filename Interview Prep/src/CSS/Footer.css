@@ -1,0 +1,168 @@
+#fotter-up-image{
+    display: flex;
+    justify-content: center;
+}
+
+#companies{
+ 
+    width: 90vw;
+    height: 80px;
+}
+
+#footer-main{
+    background-color: #093157;
+}
+
+.col-auto{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+#hr{
+    width: 90%;
+}
+
+#subscribe{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.Email{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 180px;
+    height: 25px;
+}
+.Submit{
+    border-radius: 5px;
+    border: 2px solid white;
+    width: 100px;
+    height: 30px;
+}
+
+#copyright{
+    background-color: rgb(0, 31, 0);
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+
+.link-my-port{
+    color: rgb(3, 221, 255);
+    font-weight: bold;
+}
+
+#theme{
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+#light-yellow{
+    width: 20px;
+    height: 20px;
+    background-color: rgba(255, 255, 3, 0.932);
+    border-radius: 20px;
+    border: 2px solid white;
+}
+#light-green{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(153, 255, 0);
+    border-radius: 20px;
+    border: 2px solid white;
+}
+#light-sky{
+    width: 20px;
+    height: 20px;
+    background-color: rgba(0, 162, 255, 0.932);
+    border-radius: 20px;
+    border: 2px solid white;
+}
+#light-red{
+    width: 20px;
+    height: 20px;
+    background-color: rgba(240, 35, 35, 0.932);
+    border-radius: 20px;
+    border: 2px solid white;
+}
+
+
+
+
+
+
+#footer{
+    
+    /* margin-top: 1px; */
+    background-color: #093157;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    justify-content: space-between;
+    align-items: center;
+}
+
+#add{
+    color: rgb(205, 172, 172);
+}
+#directionimg{
+    width: 140px;
+    height: 80px;
+    text-align: center;
+}
+
+
+#marginwala{
+    margin-left: 100px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+#ul{
+    color: white;
+    text-decoration: none;
+}
+#li :hover{
+    color: burlywood;
+}
+
+#li{
+    color: white;
+}
+#headingfoot{
+    color: white;
+    text-shadow: 1px 1px rgb(158, 166, 128);
+}
+
+
+#rightfooter{
+    background-color: white;
+    margin-top: 15px;
+    margin-right: 5px;
+    padding-top: 20px;
+    text-align: center;
+    border: 3px solid gray;
+    justify-content: center;
+    width: 250px;
+    height: 150px;
+    margin-bottom: 15px;
+}
+
+#footbutton{
+    font-weight: bold;
+    margin-top: 25px;
+}
+#footplay{
+    width: 140px;
+    height: 40px;
+
+}
